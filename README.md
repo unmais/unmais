@@ -1,0 +1,5 @@
+- 👋 Hi, I’m David.
+- 👀 I have recently managed to erase the random noise on my irrational (as in numbers) space of interests widely enough to focus on ML and AI.
+- 🌱 Been a Java programmer for close to 20 years.
+- 💞️ Want a creative man to collaborate on either commercial or open source projects? (Only) if they are truly innovative, of fill a hole in the market...
+- 📫 ... drop me a line to unmais@gmail.com
